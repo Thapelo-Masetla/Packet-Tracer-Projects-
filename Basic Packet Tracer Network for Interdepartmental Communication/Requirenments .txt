@@ -1,0 +1,8 @@
+Designing a network in Packet Tracer to connect Sales and Marketing departments .
+
+Requirements: 
+a)Each department should have at least 2 Pcs 
+b)Appropriate number of switches and routers should be used in the network 
+c)Using the given network address 192.168.40.0 , all interfaces should be configured with appropriate IP addresses , subnet mask and gateway 
+d)All devices in the network should be connected using appropriate cables 
+e)Test connectivity between Sales and Marketing departments - PCs in Sales should be able to ping PCs in the Marketing department. 
