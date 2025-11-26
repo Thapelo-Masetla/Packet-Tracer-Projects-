@@ -1,0 +1,21 @@
+# Interdepartmental Network Design using Cisco Packet Tracer
+
+## Overview
+This project connects Sales and Marketing departments using subnetting,
+a router, switches, and PCs in Cisco Packet Tracer.
+
+## Features
+- Two /29 subnets from 192.168.40.0/24
+- 2 PCs in each department
+- Proper cable types and interface configuration
+- Connectivity testing with ping (ICMP)
+
+## Files in this Repository
+- PacketTracer/SalesMarketingNetwork.pkt — main Packet Tracer topology
+- Documentation/Report.pdf — project documentation
+
+## How to Use
+1. Download `.pkt` file
+2. Open in Cisco Packet Tracer
+3. Test connectivity using ping
+
