@@ -11,8 +11,8 @@ a router, switches, and PCs in Cisco Packet Tracer.
 - Connectivity testing with ping (ICMP)
 
 ## Files in this Repository
-- PacketTracer/SalesMarketingNetwork.pkt — main Packet Tracer topology
-- Documentation/Report.pdf — project documentation
+- PacketTracer/Interdependant Network design Forr Sales and Marketing using Cisco PacketTracer .pkt — main Packet Tracer topology
+- Documentation.docx — project documentation
 
 ## How to Use
 1. Download `.pkt` file
