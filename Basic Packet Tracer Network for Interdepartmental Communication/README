@@ -1,0 +1,28 @@
+Interdepartmental Network Connectivity: Sales & Marketing
+
+Overview
+This project establishes a basic network infrastructure that enables seamless communication 
+between the Sales and Marketing departments. Using Cisco Packet Tracer, the design demonstrates how two 
+separate departments can be interconnected through proper switching, routing, and cabling.
+
+Project Features
+-1 Router, 2 Access Switches, and 4 End Devices
+-Two PCs assigned to the Sales department
+-Two PCs assigned to the Marketing department
+-Correct cable types and interface configurations
+-Device IP addressing and interdepartmental routing
+-Connectivity testing using ICMP (ping)
+
+Files Included
+-PacketTracer/Interdepartmental Network Design for Sales and Marketing.pkt
+Cisco Packet Tracer file containing the full network topology
+-Documentation.docx
+Project documentation explaining design considerations, configuration steps, and testing results
+
+How to Use
+-Download the .pkt file from the repository.
+-Open it in Cisco Packet Tracer 
+Verify communication by:
+-Pinging between devices within the Sales department
+-Pinging between devices within the Marketing department
+-Pinging across departments (Sales ↔ Marketing) to confirm full interdepartmental connectivity
